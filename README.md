@@ -6,4 +6,4 @@ Jogos podem ajudar o processo de aprendizagem a medida que simulam situações q
 
 O jogo está disponível no momento apenas para windows. Faça o download da pasta Statistic para o seu computador e execute o arquivo Game.exe. O jogo é gratuito. Você também é livre para redistribuir esse material desde que não faça edições e não comercialize.
 
-As artes e a logo foram criadas por (instagram @_marcosdesigner).
+As artes e a logo foram criadas por (instagram @marcos.creator).
