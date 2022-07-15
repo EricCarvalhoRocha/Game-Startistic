@@ -4,6 +4,6 @@ Statistic é um jogo educativo com o propósito de ensinar estatística básica.
 
 Jogos podem ajudar o processo de aprendizagem a medida que simulam situações que de outra forma seriam muito custosas para serem realizadas. E, além disso, podem tornar o aprendizado divertido.
 
-O jogo está disponível nomomento apenas para windows. Faça o download da pasta Statistic para o seu computador e execute o arquivo Game.exe. O jogo é gratuito. 
+O jogo está disponível nomomento apenas para windows. Faça o download da pasta Statistic para o seu computador e execute o arquivo Game.exe. O jogo é gratuito. Você também é livre para redistribuir esse material desde que não faça edições e não comercialize.
 
 As artes e a logo foram criadas por (instagram @_marcosdesigner).
