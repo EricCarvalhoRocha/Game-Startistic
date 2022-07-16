@@ -1,4 +1,4 @@
-# Game-Statistic
+# Game-Startistic
 
 Statistic é um jogo educativo com o propósito de ensinar estatística básica. O jogo tem como principal objetivo servir como proposta pedagógica interativa para enriquecer a dinâmica durante as aulas. Por meio do game podem ser trabalhados conceitos como média, moda, probabilidade e correlação.
 
